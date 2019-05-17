@@ -1,0 +1,19 @@
+{
+    "se": {
+        "awscloudformation": {
+            "AuthRoleName": "imageshare-se-20190515195249-authRole",
+            "UnauthRoleArn": "arn:aws:iam::456056621770:role/imageshare-se-20190515195249-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::456056621770:role/imageshare-se-20190515195249-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "imageshare-se-20190515195249-deployment",
+            "UnauthRoleName": "imageshare-se-20190515195249-unauthRole",
+            "StackName": "imageshare-se-20190515195249",
+            "StackId": "arn:aws:cloudformation:us-east-1:456056621770:stack/imageshare-se-20190515195249/dbca6c90-7731-11e9-90e6-128a65397f5a"
+        },
+        "categories": {
+            "auth": {
+                "cognito2a9d4d17": {}
+            }
+        }
+    }
+}
